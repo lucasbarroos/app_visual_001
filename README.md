@@ -2,6 +2,10 @@
 
 Simple and clean design to a wallet app. 
 
+## Preview
+
+![Home Screen](https://imgur.com/sBPTvrIl.jpeg)
+
 ## Installation
 
 Use the package manager npm to install de dependencies:
